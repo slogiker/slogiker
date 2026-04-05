@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Daniel.<br><br>Currently learning **C++**, **JavaScript**, and **Python**.<br><br>I build projects across different stacks, including **Flutter**, **Node.js**, **Python**, **C++**, **C#**, **JavaScript**, and **TypeScript**.<br><br>I'm not fully fluent in any language yet, but if I had to choose one, it would be **C++** since it was the first language I learned.<br><br>I prefer building **full-stack applications** rather than focusing only on backend or frontend.<br><br>Current main project: **MC-BOT** (name may change).<br><br>Fun fact: `Ctrl + Backspace` deletes a whole word instead of a single letter.
+Hi, I'm Daniel.<br><br>Currently learning **C++**, **JavaScript**, and **Python**.<br><br>I build projects across different stacks, including **Flutter**, **Node.js**, **Python**, **C++**, **C#**, **JavaScript**, and **TypeScript**.<br><br>I'm not fully fluent in any language yet, but if I had to choose one, it would be **C++** since it was the first language I learned.<br><br>I prefer building **full-stack applications** rather than focusing only on backend or frontend.<br><br>Current main project: **MC-BOT** (name may change).<br><br>Fun fact: `Shift + enter` puts you in a new line, when normal enter submits things.
 
 
 ## 🌐 Socials:
